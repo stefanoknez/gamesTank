@@ -1,0 +1,23 @@
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\bin\Debug\TankBattle.exe
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\bin\Debug\TankBattle.pdb
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.csprojResolveAssemblyReference.cache
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.Form1.resources
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.exe
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.pdb
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\073341380\Documents\ICS 3U\Labs\Culminating\TankBattle\obj\Debug\TankBattle.Resource1.resources
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.exe
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.pdb
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\bin\Debug\TankBattle.exe
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\bin\Debug\TankBattle.pdb
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.csprojResolveAssemblyReference.cache
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.Form1.resources
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.Resource1.resources
+C:\Users\William Tran\Documents\Visual Studio 2013\Projects\Culminating\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
